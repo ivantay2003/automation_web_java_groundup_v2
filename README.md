@@ -1,5 +1,9 @@
 
 # Instruction
+
+This is NOT a complete repo. I have removed the original repo. Please contact me for the full set repo.
+<br><br><br>
+
 This is part 2 of the lesson. <br>
 For detail informations (setting up / explanation of designs / results / structures) , please refer to the <b>README.docx</b> in 
 
@@ -23,8 +27,6 @@ If you are keen to go to part 1 of the original lesson - basic selenium web auto
  
 https://github.com/ivantay2003/automation_web_java_groundup
 
-<br><br><br>
-This is NOT a complete repo. I have remove the original repo. Please contact me below the link for the repo.
 
 
 <br><br><br>
