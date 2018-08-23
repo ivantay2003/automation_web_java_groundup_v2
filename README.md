@@ -24,6 +24,10 @@ If you are keen to go to part 1 of the original lesson - basic selenium web auto
 https://github.com/ivantay2003/automation_web_java_groundup
 
 <br><br><br>
+This is NOT a complete repo. I have remove the original repo. Please contact me below the link for the repo.
+
+
+<br><br><br>
 <b>I am coming up a better design than this v2 (v3), where it should be largely restructure, with better encapsulation, reports , other new features and potentially include my new selenium extended framework. So watch out for this space</b>
 
 <br><br><br>
